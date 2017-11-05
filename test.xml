@@ -1,0 +1,24 @@
+<config>
+  <entry>
+    <item name="alpha" id="10">Hello world!</item>
+    <item name="beta" id="12" param_x="true" />
+  </entry>
+  <checksums>
+    <entry>
+      <path>/usr/bin/test.bin</path>
+      <checksum>0dae873a88f8b93333dc93</checksum>
+    </entry>
+    <entry>
+      <path>/etc/myapp/alpha.txt</path>
+      <checksum>1236544a654456df64789c</checksum>
+    </entry>
+    <entry>
+      <path>/usr/local/include/beta.h</path>
+      <checksum>a546e879456f4562223bb</checksum>
+    </entry>
+    <entry>
+      <path>/home/user/gamma.tgz</path>
+      <checksum>963ff123d5a565b4621ca</checksum>
+    </entry>
+  </checksums>
+</config>
